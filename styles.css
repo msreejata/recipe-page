@@ -23,12 +23,12 @@
   }
   
   body {
-    background-color: #FFF2C2;
+    background-color: #FFF2C2 !important;
   }
   
   h3 {
     text-align: center;
-    color: #E08A36;
+    color: #E08A36 !important;
   }
   
   .lexend-subheadings {
@@ -37,6 +37,20 @@
   font-weight: 300;
   font-style: normal;
   }
-  
+
+  .Steps{
+    text-align: left;
+  }
+
+  p{
+    text-align: center;
+  }
+
+  .center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;                
+  }
+
   
   
